@@ -42,3 +42,13 @@ changelog:
     exclude:
       - "^docs:"
       - "^test:"
+
+brews:
+  -
+    name: goreltest
+    homepage: https://github.com/bradyjoslin
+    tap:
+      owner: bradyjoslin
+      name: homebrew-goreltest
+    commit_author:
+      name: bradyjoslin
