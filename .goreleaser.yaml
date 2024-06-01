@@ -47,7 +47,7 @@ brews:
   -
     name: goreltest
     homepage: https://github.com/bradyjoslin
-    tap:
+    repository:
       owner: bradyjoslin
       name: homebrew-goreltest
     commit_author:
